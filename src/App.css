@@ -1,0 +1,19 @@
+:root{
+  --color-dark : #27292a;
+  --color-darkest : #1f2122;
+  --color-light : white;
+  --color-primary : #ec6890;
+  --color-icons : yellow;
+  
+  --font-family-primary  : 'Poppins' , sans-serif;
+  --font-weight-bold : 900;
+  --font-weight-normal : 400;
+  }
+  
+  @import url('https://fonts.googleapis.com/css2?family=Cairo&family=Poppins:wght@300;700&display=swap');
+  body{
+      /* background-color: var(--color-dark);
+      font-family: var(--font-family-primary); */
+      
+  }
+  
